@@ -1,2 +1,4 @@
 # hello-world
-A first repository
+A first repository.
+Computer novices, welcome.
+Changes updated.
